@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(9798.jpg);
+    background-image: url(https://raw.githubusercontent.com/Hurmex/firma/main/9798.jpg);
     margin: 0;
 }
 
@@ -29,7 +29,7 @@ h1 {
     font-size: 50px;
     background-color: black;
     margin-top: 0;
-    margin-bottom: -1.6%;
+    margin-bottom: -2.5%;
 }
 
 h2 {
@@ -37,12 +37,12 @@ h2 {
 }
 
 .h2-v2 {
-    margin-left: 17%;
+    margin-left: 14.5%;
     margin-top: 5%;
 }
 
 .text1-v2 {
-    margin-left: 17%;
+    margin-left: 14.5%;
     width: 60%;
 }
 
@@ -52,18 +52,18 @@ h2 {
 }
 
 .border1 {
-    width: 50%;
+    width: 60%;
     height: 735px;
-    margin-left: 25%;
+    margin-left: 20%;
     margin-bottom: 2.5%;
     background-color: white;
     padding: 25px;
 }
 
 .border2 {
-    width: 50%;
-    height: 525px;
-    margin-left: 25%;
+    width: 60%;
+    height: 550px;
+    margin-left: 20%;
     margin-bottom: 2.5%;
     background-color: white;
     padding: 25px;
@@ -72,7 +72,7 @@ h2 {
 
 .background {
     background-color: royalblue;
-    height: 475px;
+    height: 500px;
     margin: auto;
     padding: 25px 0;
 }
@@ -87,14 +87,14 @@ h2 {
 footer {
     background-color: black;
     color: white;
-    height: 60px;
-    margin-top: 8%;
+    height: 70px;
+    margin-top: 7%;
 }
 
 .footer-text {
     margin-bottom: -11%;
     color: white;
-    padding-left: 29%;
+    padding-left: 25%;
 }
 
 a {
@@ -114,7 +114,7 @@ a {
 
 .button {
     display: inline-flex;
-    height: 50px;
+    height: 55px;
     padding: 0;
     background-color: #4267B0;
     border: none;
@@ -152,7 +152,7 @@ a {
 
 .button1 {
     display: inline-flex;
-    height: 50px;
+    height: 55px;
     padding: 0;
     background-color: #1DA1F0;
     border: none;
@@ -191,7 +191,7 @@ a {
 
 .button2 {
     display: inline-flex;
-    height: 50px;
+    height: 55px;
     padding: 0;
     background-color: #5661f0;
     border: none;
